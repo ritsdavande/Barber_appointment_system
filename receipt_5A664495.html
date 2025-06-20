@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Appointment Receipt</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .receipt {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .receipt-header {
+            text-align: center;
+            border-bottom: 2px solid #f7c044;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .receipt-header h1 {
+            color: #333;
+            margin: 0;
+        }
+        .receipt-details {
+            margin-bottom: 20px;
+        }
+        .receipt-details table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .receipt-details th, .receipt-details td {
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+            text-align: left;
+        }
+        .receipt-details th {
+            width: 40%;
+            color: #666;
+        }
+        .receipt-footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 14px;
+            color: #666;
+        }
+        .booking-id {
+            background-color: #f7c044;
+            color: white;
+            padding: 5px 10px;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        .barcode {
+            text-align: center;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="receipt">
+        <div class="receipt-header">
+            <h1>Barber Hair Salon</h1>
+            <p>3214 Satish Patil Ichalkaranji, DS 98745</p>
+            <p>Tel: 012 (345) 67 89</p>
+            <div class="booking-id">BOOKING ID: 5A664495</div>
+        </div>
+        
+        <div class="receipt-details">
+            <h2>Appointment Receipt</h2>
+            <p>This serves as confirmation of your appointment with us.</p>
+            
+            <table>
+                <tr>
+                    <th>Name:</th>
+                    <td>ganesh</td>
+                </tr>
+                <tr>
+                    <th>Email:</th>
+                    <td>ganeshhipparkar30@gmail.com</td>
+                </tr>
+                <tr>
+                    <th>Phone:</th>
+                    <td>2563323625</td>
+                </tr>
+                <tr>
+                    <th>Service:</th>
+                    <td>Backbone Massage</td>
+                </tr>
+                <tr>
+                    <th>Date:</th>
+                    <td>Saturday, May 3, 2025</td>
+                </tr>
+                <tr>
+                    <th>Time:</th>
+                    <td>1:07 AM</td>
+                </tr>
+                <tr>
+                    <th>Receipt Issued:</th>
+                    <td>May 1, 2025 at 9:37 AM</td>
+                </tr>
+            </table>
+        </div>
+        
+        <div class="barcode">
+            <!-- Placeholder for barcode or QR code -->
+            <p>|||||||||||||||||||||||||||||||||||||||||||||||</p>
+            <p>5A664495</p>
+        </div>
+        
+        <div class="receipt-footer">
+            <p>Thank you for choosing Barber Hair Salon!</p>
+            <p>Please arrive 10 minutes before your scheduled appointment time.</p>
+            <p>If you need to reschedule or cancel, please contact us at least 24 hours in advance.</p>
+        </div>
+    </div>
+</body>
+</html>

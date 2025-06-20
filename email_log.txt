@@ -1,0 +1,100 @@
+2025-05-01 16:23:44 - Attempting to send email to: ritsdavande@gmail.com
+2025-05-01 16:23:46 - Email to ritsdavande@gmail.com: FAILED - Mail function returned false. Check your server configuration. PHP Error: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+2025-05-01 16:44:09 - Attempting to send email to: ritsdavande@gmail.com
+2025-05-01 16:44:13 - Email to ritsdavande@gmail.com: SUCCESS
+2025-05-01 16:44:57 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 16:45:01 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 16:47:17 - Attempting to send email to: desaisiddharth1008@gmail.com
+2025-05-01 16:47:21 - Email to desaisiddharth1008@gmail.com: SUCCESS
+2025-05-01 16:48:44 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 16:48:48 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 16:49:53 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 16:49:57 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 16:50:23 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 16:50:27 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 16:50:49 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 16:50:53 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 16:58:27 - Attempting to send email to: ganeshhipparkar30@gmail.com
+2025-05-01 16:58:31 - Email to ganeshhipparkar30@gmail.com: SUCCESS
+2025-05-01 17:04:31 - Attempting to send email to: parthbuchade1508@gmail.com
+2025-05-01 17:04:36 - Email to parthbuchade1508@gmail.com: SUCCESS
+2025-05-01 17:05:08 - Attempting to send email to: parthbuchade1508@gmail.com
+2025-05-01 17:05:12 - Email to parthbuchade1508@gmail.com: SUCCESS
+2025-05-01 17:12:07 - Attempting to send email to: prasannabandiwadekar35@gmail.com
+2025-05-01 17:12:11 - Email to prasannabandiwadekar35@gmail.com: SUCCESS
+2025-05-01 17:12:53 - Attempting to send email to: prasannabandiwadekar35@gmail.com
+2025-05-01 17:12:58 - Email to prasannabandiwadekar35@gmail.com: SUCCESS
+2025-05-01 17:40:12 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 17:40:18 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 17:41:24 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 17:41:28 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 17:43:47 - Attempting to send email to: prathamesh.pd.2000@gmail.com
+2025-05-01 17:43:51 - Email to prathamesh.pd.2000@gmail.com: SUCCESS
+2025-05-01 18:30:24 - Attempting to send email to: prathamesh.pd.2000@gmail.com
+2025-05-01 18:30:30 - Email to prathamesh.pd.2000@gmail.com: SUCCESS
+2025-05-01 18:31:33 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 18:31:37 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 18:33:52 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 18:33:56 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 18:35:11 - Attempting to send email to: ganeshhipparkar30@gmail.com
+2025-05-01 18:35:15 - Email to ganeshhipparkar30@gmail.com: SUCCESS
+2025-05-02 05:17:09 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-02 05:17:20 - Email to riteshdavande123@gmail.com: FAILED - Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-05-02 06:51:20 - Attempting to send email to: adityachatte1114@gmail.com
+2025-05-02 06:51:20 - Email to adityachatte1114@gmail.com: FAILED - Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-05-02 06:53:39 - Attempting to send email to: prasannabandiwadekar35@gmail.com
+2025-05-02 06:53:43 - Email to prasannabandiwadekar35@gmail.com: SUCCESS
+2025-05-02 06:56:04 - Attempting to send email to: adityachatte1114@gmail.com
+2025-05-02 06:56:08 - Email to adityachatte1114@gmail.com: SUCCESS
+2025-05-02 06:57:52 - Attempting to send email to: omfarkate7515@gmail.com
+2025-05-02 06:57:57 - Email to omfarkate7515@gmail.com: SUCCESS
+2025-05-03 16:30:44 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-03 16:30:48 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-06-01 08:20:37 - Attempting to send email to: john@gmail.com
+2025-06-01 08:20:42 - Email to john@gmail.com: SUCCESS
+2025-06-01 08:22:42 - Attempting to send email to: shubh@gmail.com
+2025-06-01 08:22:47 - Email to shubh@gmail.com: SUCCESS
+2025-06-01 14:43:52 - Attempting to send email to: shubh@gmail.com
+2025-06-01 14:43:57 - Email to shubh@gmail.com: SUCCESS
+2025-06-02 15:11:42 - Attempting to send email to: bhaga@gmail.com
+2025-06-02 15:11:48 - Email to bhaga@gmail.com: SUCCESS
+2025-06-02 15:13:19 - Attempting to send email to: riteshdavande123@gmail.com
+2025-06-02 15:13:23 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-06-02 15:15:27 - Attempting to send email to: shivaniveer60@gmail.com
+2025-06-02 15:15:32 - Email to shivaniveer60@gmail.com: SUCCESS
+2025-06-02 15:16:33 - Attempting to send email to: shivaniveer60@gmail.com
+2025-06-02 15:16:38 - Email to shivaniveer60@gmail.com: SUCCESS
+2025-06-02 15:17:27 - Attempting to send email to: shivaniveer60@gmail.com
+2025-06-02 15:17:31 - Email to shivaniveer60@gmail.com: SUCCESS
+2025-06-03 16:49:54 - Attempting to send email to: johnwick@gmail.com
+2025-06-03 16:49:59 - Email to johnwick@gmail.com: SUCCESS
+2025-06-04 06:33:31 - Attempting to send email to: pranavakkiwate@gmail.com
+2025-06-04 06:33:39 - Email to pranavakkiwate@gmail.com: SUCCESS
+2025-06-04 06:36:14 - Attempting to send email to: pranavakiwate@gmail.com
+2025-06-04 06:36:22 - Email to pranavakiwate@gmail.com: SUCCESS
+2025-06-04 06:38:43 - Attempting to send email to: parthbuchade1508@gmail.com
+2025-06-04 06:38:49 - Email to parthbuchade1508@gmail.com: SUCCESS
+2025-06-04 07:05:11 - Attempting to send email to: adityachatte1114@gmail.com
+2025-06-04 07:05:15 - Email to adityachatte1114@gmail.com: SUCCESS
+2025-06-04 07:06:18 - Attempting to send email to: ritsdavande@gmail.com
+2025-06-04 07:06:22 - Email to ritsdavande@gmail.com: SUCCESS
+2025-06-04 07:06:56 - Attempting to send email to: adityachatte1114@gmail.com
+2025-06-04 07:07:00 - Email to adityachatte1114@gmail.com: SUCCESS
+2025-06-04 07:07:57 - Attempting to send email to: prasannabandiwadekar35@gmail.com
+2025-06-04 07:08:10 - Email to prasannabandiwadekar35@gmail.com: SUCCESS
+2025-06-04 07:09:52 - Attempting to send email to: adityachatte1114@gmail.com
+2025-06-04 07:09:56 - Email to adityachatte1114@gmail.com: SUCCESS
+2025-06-04 07:10:57 - Attempting to send email to: riteshdavande123@gmail.com
+2025-06-04 07:11:02 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-06-04 07:19:03 - Attempting to send email to: mehulchavan1111@gmail.com
+2025-06-04 07:19:30 - Email to mehulchavan1111@gmail.com: SUCCESS
+2025-06-04 07:19:47 - Attempting to send email to: mehulchavan1111@gmail.com
+2025-06-04 07:19:52 - Email to mehulchavan1111@gmail.com: SUCCESS
+2025-06-04 07:21:25 - Attempting to send email to: riteshdavande123@gmail.com
+2025-06-04 07:21:31 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-06-04 07:22:22 - Attempting to send email to: ganeshhipparkar30@gmail.com
+2025-06-04 07:22:30 - Email to ganeshhipparkar30@gmail.com: SUCCESS
+2025-06-04 07:23:19 - Attempting to send email to: riteshdavande123@gmail.com
+2025-06-04 07:23:24 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-06-04 07:57:47 - Attempting to send email to: shahid@gmail.com
+2025-06-04 07:57:53 - Email to shahid@gmail.com: SUCCESS

@@ -1,0 +1,2 @@
+2025-05-02 05:17:20 - Failed to send email to riteshdavande123@gmail.com: Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-05-02 06:51:20 - Failed to send email to adityachatte1114@gmail.com: Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting

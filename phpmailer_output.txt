@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PHPMailer Downloader</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        .success {
+            color: green;
+            background: #e8f5e9;
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+        .error {
+            color: red;
+            background: #ffebee;
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+        .warning {
+            color: #856404;
+            background: #fff3cd;
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+        pre {
+            background: #f5f5f5;
+            padding: 10px;
+            border-radius: 4px;
+            overflow: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>PHPMailer Downloader</h1><p>Downloading PHPMailer files to: C:\xampp\htdocs\barber_php/assets/lib</p><h3>Processing class.phpmailer.php:</h3><div class='success'>Successfully downloaded and saved: class.phpmailer.php</div><h3>Processing class.smtp.php:</h3><div class='success'>Successfully downloaded and saved: class.smtp.php</div><h3>Processing class.pop3.php:</h3><div class='success'>Successfully downloaded and saved: class.pop3.php</div><h3>Processing class.phpmaileroauth.php:</h3><div class='success'>Successfully downloaded and saved: class.phpmaileroauth.php</div><h3>Processing class.phpmaileroauthgoogle.php:</h3><div class='success'>Successfully downloaded and saved: class.phpmaileroauthgoogle.php</div><div class='success'><strong>All PHPMailer files have been downloaded successfully!</strong></div><p>You can now use the Gmail SMTP email functionality in your application.</p><h3>Next Steps:</h3>
+<ol>
+    <li>Test sending emails with <a href='mail-test.php'>mail-test.php</a></li>
+    <li>Make sure your Gmail account settings allow less secure apps or create an app password</li>
+    <li>Update your email configuration in assets/lib/mailer.php if needed</li>
+</ol>
+</body>
+</html>
